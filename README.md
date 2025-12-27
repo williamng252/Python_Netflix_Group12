@@ -6,6 +6,5 @@ Dự án sử dụng bộ dữ liệu "Netflix Movies and TV Shows" được cun
 - **Số lượng:** Hơn 8.000 dòng dữ liệu phim và TV Show.
 
 ## Công cụ sử dụng
-- Python 3.x
 - Thư viện: Pandas, NumPy, Matplotlib, Seaborn.
 - Môi trường code: Visual Studio Code.
